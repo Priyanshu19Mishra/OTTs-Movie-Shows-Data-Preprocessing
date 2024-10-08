@@ -68,7 +68,8 @@ Data Cleaning: Handles duplicates, missing values, and incorrect data.
 Data Transformation: Converts categorical features like ratings and duration into numerical values.
 Data Visualization: Provides insights through various visualizations for better understanding.
 Conclusion
-This project provides a comprehensive analysis and preprocessing pipeline for a large dataset of OTT movies and shows. The analysis covers key aspects such as platform distribution, genre popularity, release trends, and director performance. The dataset can be expanded further for more in-depth analysis, or other features can be added.
+This project provides a comprehensive analysis and preprocessing pipeline for a large dataset of OTT movies and shows. The analysis covers key aspects such as platform distribution, genre popularity, release trends, and director performance. The dataset can be expanded further for more in-depth analysis, or other features can be added. 
+The implementation comes and can be more advance using various more architecture along with this visualization script. 
 
 
 

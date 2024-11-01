@@ -53,13 +53,9 @@ The dataset is stored in a CSV file on Google Drive. It can be mounted using Goo
 Download or clone this repository.
 Upload the dataset to your Google Drive or specify the path to your local dataset.
 Run the script in a Jupyter Notebook or Google Colab.
-3. Required Libraries
-Install the required libraries using:
+3. Required Libraries Install the required libraries using: bash, ,pip install pandas numpy matplotlib seaborn wordcloud
 
-bash
-Copy code
-pip install pandas numpy matplotlib seaborn wordcloud
-4. Visualizations
+4. Visualizations:
 The script generates several bar plots, a distribution plot, and a word cloud to visualize the processed data. These plots include insights about:
 
 Number of movies and shows by platform.

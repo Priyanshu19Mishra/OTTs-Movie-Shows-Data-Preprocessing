@@ -43,7 +43,9 @@ seaborn: For advanced visualizations.
 numpy: For numerical operations.
 wordcloud: For generating word clouds.
 collections: For counting genre occurrences.
-Usage Instructions
+
+Usage Instructions:
+
 1. Data Access
 The dataset is stored in a CSV file on Google Drive. It can be mounted using Google Colab's drive.mount() function. Make sure the dataset is in the correct path as specified in the script.
 
